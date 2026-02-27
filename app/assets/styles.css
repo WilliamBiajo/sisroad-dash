@@ -1,0 +1,4 @@
+.app-shell{ display:flex; min-height:100vh; }
+.sidebar{ width:260px; background:#2f6375; padding:18px; color:white; }
+.sidebar-title{ font-weight:700; letter-spacing:2px; margin-bottom:8px; }
+.content{ flex:1; background:#efefef; padding:22px; }
